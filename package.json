@@ -1,0 +1,22 @@
+{
+  "name": "mersenne-twister",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/MersenneTwister.js",
+  "bin": {
+    "mersenne-twister": "MersenneTwister.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoine-pous/mersenne-twister.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antoine-pous/mersenne-twister/issues"
+  },
+  "homepage": "https://github.com/antoine-pous/mersenne-twister#readme"
+}
